@@ -33,11 +33,11 @@ class Var:
         logger.critical("Missing required Telegram API configuration")
         raise ValueError("Missing required Telegram API configuration")
 
-    NAME: str = os.getenv("NAME", "CINDERELLA")
+    NAME: str = os.getenv("NAME", "𝐓𝐇𝐄 𝐒𝐊𝟎𝟖")
     SLEEP_THRESHOLD: int = int(os.getenv("SLEEP_THRESHOLD", "600"))
     WORKERS: int = int(os.getenv("WORKERS", "8"))
 
-    BIN_CHANNEL: int = int(os.getenv("BIN_CHANNEL", "-1003895046016"))
+    BIN_CHANNEL: int = int(os.getenv("BIN_CHANNEL", "-1003881108469"))
 
     if not BIN_CHANNEL:
         logger.critical("BIN_CHANNEL is required")
@@ -48,7 +48,7 @@ class Var:
     PING_INTERVAL: int = int(os.getenv("PING_INTERVAL", "840"))
     NO_PORT: bool = str_to_bool(os.getenv("NO_PORT", "True"))
 
-    OWNER_ID: int = int(os.getenv("OWNER_ID", "8446475678"))
+    OWNER_ID: int = int(os.getenv("OWNER_ID", "8723278238"))
 
     if not OWNER_ID:
         logger.warning("WARNING: OWNER_ID is not set. No user will be granted owner access.")
@@ -77,7 +77,7 @@ class Var:
 
     FORCE_CHANNEL_ID: Optional[int] = None
 
-    force_channel_env = os.getenv("FORCE_CHANNEL_ID", "-1003330631655").strip()
+    force_channel_env = os.getenv("FORCE_CHANNEL_ID", "-1003874499055").strip()
 
     if force_channel_env:
         try:
