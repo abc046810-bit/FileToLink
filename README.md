@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/fyaz05/Resources@main/FileToLink/Thunder.jpg" alt="Thunder Logo" width="120">
-  <h1 align="center">⚡ 𝐓𝐞𝐚𝐦 𝐂𝐢𝐧𝐝𝐞𝐫𝐞𝐥𝐥𝐚</h1>
+  <h1 align="center">⚡ 𝐓𝐇𝐄 𝐒𝐊𝟎𝟖</h1>
 </p>
 
 <p align="center">
