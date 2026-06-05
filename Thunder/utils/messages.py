@@ -140,7 +140,7 @@ MSG_BUTTON_CLOSE = "✖ Close"
 
 MSG_WELCOME = (
     "🌟 **Welcome, {user_name}!** 🌟\n\n"
-    "I'm **𝐓𝐇𝐄 𝐒𝐊𝟎𝟖 File to Link Bot** ⚡\n"
+    "I'm **𝐃𝐄𝐕𝐈𝐋 𝐅𝐈𝐋𝐄 𝐓𝐎 𝐋𝐈𝐍𝐊** ⚡\n"
     "I generate direct download and streaming links for your files.\n\n"
     "**How to use:**\n"
     "1. Send any file to me for private links.\n"
@@ -150,7 +150,7 @@ MSG_WELCOME = (
 )
 
 MSG_HELP = (
-    "📘 **𝐓𝐇𝐄 𝐒𝐊𝟎𝟖 Bot - Help Guide** 📖\n\n"
+    "📘 **𝐃𝐄𝐕𝐈𝐋 𝐅𝐈𝐋𝐄 𝐓𝐎 𝐋𝐈𝐍𝐊 Bot - Help Guide** 📖\n\n"
     "How to get direct download & streaming links:\n\n"
     "**🚀 Private Chat (with me):**\n"
     "> 1. Send me **any file** (document, video, audio, photo, etc.).\n"
@@ -182,7 +182,7 @@ MSG_HELP = (
 )
 
 MSG_ABOUT = (
-    "🌟 **About 𝐓𝐇𝐄 𝐒𝐊𝟎𝟖 File to Link Bot** ℹ️\n\n"
+    "🌟 **About 𝐃𝐄𝐕𝐈𝐋 𝐅𝐈𝐋𝐄 𝐓𝐎 𝐋𝐈𝐍𝐊 Bot** ℹ️\n\n"
     "I'm your go-to bot for **instant download & streaming!** ⚡\n\n"
     "**🚀 Key Features:**\n"
     "> **Instant Links:** Get your links within seconds.\n"
